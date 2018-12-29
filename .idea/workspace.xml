@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fdb6fff-922b-410e-b752-7bc5b5758fad" name="Default" comment="" />
+    <list default="true" id="5fdb6fff-922b-410e-b752-7bc5b5758fad" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/014_display/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_display/main.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/013_border-redius/index.html">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/014_display/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            <state relative-caret-position="116">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/014_display/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -58,6 +70,7 @@
         <option value="$PROJECT_DIR$/012_border/index.html" />
         <option value="$PROJECT_DIR$/013_border-redius/index.html" />
         <option value="$PROJECT_DIR$/013_border-redius/main.css" />
+        <option value="$PROJECT_DIR$/014_display/main.css" />
       </list>
     </option>
   </component>
@@ -71,7 +84,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="356" />
+    <option name="x" value="201" />
     <option name="y" value="23" />
     <option name="width" value="1482" />
     <option name="height" value="963" />
@@ -90,6 +103,11 @@
             <path>
               <item name="html-css-bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-bootcamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="014_display" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,24 +157,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546061785480</updated>
-      <workItem from="1546061786669" duration="5614000" />
+      <workItem from="1546061786669" duration="6465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5614000" />
+    <option name="totallyTimeSpent" value="6465000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="799" y="23" width="1482" height="963" extended-state="0" />
+    <frame x="149" y="23" width="1482" height="963" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15224913" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26643598" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" weight="0.45173267" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.04950495" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -202,21 +220,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-739" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="19" selection-start-column="19" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/005_essentials-tags/01_paragrapt-element/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -294,10 +297,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="19" selection-start-column="19" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/013_border-redius/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        <state relative-caret-position="203">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/014_display/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/014_display/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
