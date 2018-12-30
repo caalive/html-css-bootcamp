@@ -1,0 +1,15 @@
+body{
+    font-size: 36px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* immediately beneath a div */
+div > p {
+    color:red;
+}
+
+/* immediate sibling following a div */
+div ~ p{
+    color:blue;
+}
