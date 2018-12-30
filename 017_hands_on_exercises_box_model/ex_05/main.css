@@ -1,0 +1,10 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    border-radius: 10px;
+    border: groove 20px;
+    background-image:url("../../005_essentials-tags/011_hands-on-exercise/ex_4/img/puppy.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
