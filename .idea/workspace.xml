@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fdb6fff-922b-410e-b752-7bc5b5758fad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/020_selector_nested/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020_selector_nested/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/021_hans_on_exercise/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/021_hans_on_exercise/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/reset.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,19 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/020_selector_nested/index.html">
+        <entry file="file://$PROJECT_DIR$/021_hans_on_exercise/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="72">
+              <caret line="12" column="118" lean-forward="true" selection-start-line="12" selection-start-column="118" selection-end-line="12" selection-end-column="118" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/020_selector_nested/main.css">
+        <entry file="file://$PROJECT_DIR$/021_hans_on_exercise/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="216">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -88,8 +89,10 @@
         <option value="$PROJECT_DIR$/018_selector_pseudo_class/main.css" />
         <option value="$PROJECT_DIR$/019_typography/index.html" />
         <option value="$PROJECT_DIR$/019_typography/main.css" />
-        <option value="$PROJECT_DIR$/020_selector_nested/index.html" />
         <option value="$PROJECT_DIR$/020_selector_nested/main.css" />
+        <option value="$PROJECT_DIR$/020_selector_nested/index.html" />
+        <option value="$PROJECT_DIR$/021_hans_on_exercise/index.html" />
+        <option value="$PROJECT_DIR$/021_hans_on_exercise/main.css" />
       </list>
     </option>
   </component>
@@ -103,8 +106,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="131" />
-    <option name="y" value="25" />
+    <option name="x" value="152" />
+    <option name="y" value="44" />
     <option name="width" value="1482" />
     <option name="height" value="963" />
   </component>
@@ -126,7 +129,7 @@
             <path>
               <item name="html-css-bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="020_selector_nested" type="462c0819:PsiDirectoryNode" />
+              <item name="021_hans_on_exercise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,16 +185,15 @@
       <option name="presentableId" value="Default" />
       <updated>1546061785480</updated>
       <workItem from="1546061786669" duration="9127000" />
-      <workItem from="1546158054437" duration="4533000" />
+      <workItem from="1546158054437" duration="7747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13660000" />
+    <option name="totallyTimeSpent" value="16874000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="131" y="25" width="1482" height="963" extended-state="0" />
-    <editor active="true" />
+    <frame x="152" y="44" width="1482" height="963" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26574394" />
@@ -479,7 +481,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css_reset.css">
+    <entry file="file://$PROJECT_DIR$/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
@@ -514,17 +516,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/020_selector_nested/index.html">
+    <entry file="file://$PROJECT_DIR$/020_selector_nested/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="336">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/020_selector_nested/main.css">
+    <entry file="file://$PROJECT_DIR$/020_selector_nested/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="72">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/021_hans_on_exercise/img/surf.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/021_hans_on_exercise/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="12" column="118" lean-forward="true" selection-start-line="12" selection-start-column="118" selection-end-line="12" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/021_hans_on_exercise/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
