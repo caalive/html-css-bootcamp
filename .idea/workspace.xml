@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fdb6fff-922b-410e-b752-7bc5b5758fad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/016_box_model/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_box_model/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_01/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_02/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_03/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_03/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_04/ex_04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_05/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_05/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018_selector_pseudo_class/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018_selector_pseudo_class/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_typography/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_typography/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,29 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_05/main.css">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/019_typography/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="24">
-              <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_05/index.html">
+        <entry file="file://$PROJECT_DIR$/019_typography/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="css_reset.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css_reset.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-821">
-              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            <state relative-caret-position="240">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -103,6 +86,10 @@
         <option value="$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_04.html" />
         <option value="$PROJECT_DIR$/017_hands_on_exercises_box_model/ex_05/main.css" />
         <option value="$PROJECT_DIR$/css_reset.css" />
+        <option value="$PROJECT_DIR$/018_selector_pseudo_class/index.html" />
+        <option value="$PROJECT_DIR$/018_selector_pseudo_class/main.css" />
+        <option value="$PROJECT_DIR$/019_typography/index.html" />
+        <option value="$PROJECT_DIR$/019_typography/main.css" />
       </list>
     </option>
   </component>
@@ -116,8 +103,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="52" />
-    <option name="y" value="81" />
+    <option name="x" value="131" />
+    <option name="y" value="25" />
     <option name="width" value="1482" />
     <option name="height" value="963" />
   </component>
@@ -135,6 +122,11 @@
             <path>
               <item name="html-css-bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-bootcamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="019_typography" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,15 +182,15 @@
       <option name="presentableId" value="Default" />
       <updated>1546061785480</updated>
       <workItem from="1546061786669" duration="9127000" />
-      <workItem from="1546158054437" duration="1495000" />
+      <workItem from="1546158054437" duration="3896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10622000" />
+    <option name="totallyTimeSpent" value="13023000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="81" width="1482" height="963" extended-state="0" />
+    <frame x="131" y="25" width="1482" height="963" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" />
@@ -206,7 +198,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.037128713" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.53341585" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -489,8 +481,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css_reset.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-821">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state relative-caret-position="241">
+          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018_selector_pseudo_class/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018_selector_pseudo_class/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_typography/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019_typography/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
         </state>
       </provider>
     </entry>

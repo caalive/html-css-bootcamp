@@ -1,0 +1,7 @@
+li:nth-child(3n+2){
+    color:red;
+}
+
+li:only-child{
+    color:yellow;
+}
