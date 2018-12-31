@@ -1,0 +1,13 @@
+p {
+    font-size: 36px;
+}
+
+#p_1{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+#p_2{
+    font-family: 'Major Mono Display', monospace;
+}
+#p_3{
+    font-family: 'Inconsolata', monospace;
+}
