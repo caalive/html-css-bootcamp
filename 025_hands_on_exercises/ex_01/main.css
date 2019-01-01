@@ -1,0 +1,13 @@
+div {
+    width: 80px;
+    height: 30px;
+    border-radius: 15px;
+    display:inline-block;
+}
+
+div:nth-child(even){
+        background-color:red;
+}
+div:nth-child(odd){
+    background-color:blue;
+}

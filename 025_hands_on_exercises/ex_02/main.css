@@ -1,0 +1,22 @@
+body{
+    width: 80%;
+    max-width: 700px;
+    border: 5px solid green;
+    margin : 0 auto;
+}
+
+nav{
+    width: 25%;
+    margin:0 auto;
+    vertical-align:top;
+    border: 2px solid red;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+main{
+    width: 75%;
+    display:inline-block;
+    border:2px solid red;
+    box-sizing: border-box;
+}

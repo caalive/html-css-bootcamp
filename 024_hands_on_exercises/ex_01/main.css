@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    width: 60%;
+    margin: 0 auto;
+    border:5px solid black;
+}
+
+header{
+
+    background-color: skyblue;
+}
+section{
+    width: 70%;
+    background-color: deeppink;
+}
+article{
+    width: 90%;
+    background-color: greenyellow;
+}
+
+aside{
+    width: 30%;
+    background-color: blueviolet;
+    float: right;
+}
+footer{
+    background-color: indianred;
+}
