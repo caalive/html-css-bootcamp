@@ -1,0 +1,17 @@
+body,div{
+    border: 2px solid red;
+}
+
+
+div{
+    width: 100px;
+    height: 50px;
+    background-color: deepskyblue;
+    margin: 10px 0;
+
+}
+
+#two{
+    position: relative;
+    right: -10px;
+}

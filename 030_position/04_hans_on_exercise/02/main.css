@@ -1,0 +1,18 @@
+body{
+    border:2px solid black;
+    max-width: 700px;
+    margin:0 auto;
+}
+
+div{
+    margin: 0 auto;
+    height: 50px;
+    width: 50px;
+    background-color: tomato;
+}
+
+#two{
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
