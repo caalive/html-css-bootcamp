@@ -1,0 +1,8 @@
+div{
+    border: 2px solid deepskyblue;
+    padding: 10px;
+    background-image: url(../images/surf.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-origin: padding-box;
+}

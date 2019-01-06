@@ -1,0 +1,12 @@
+div{
+    width: 500px;
+    height: 500px;
+    border:5px solid tomato;
+    background-image:url(../../images/dog.png);
+    background-repeat:no-repeat;
+    background-size:contain;
+
+}
+h4{
+    margin-bottom:0px;
+}

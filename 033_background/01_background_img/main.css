@@ -1,0 +1,8 @@
+div{
+    border:5px solid red;
+    width: 500px;
+    height: 500px;
+    background-image: url(../images/surf.jpeg);
+    background-repeat: repeat-y;
+    /*background-size: contain;*/
+}
