@@ -1,0 +1,33 @@
+div{
+    border-radius: 5px;
+}
+
+#div_1{
+    height: 50px;
+    background-color: tomato;
+    margin-bottom:15px;
+}
+
+#div_2{
+    float:left;
+    width:24%;
+    height: 200px;
+    background-color: skyblue;
+    margin-bottom:15px;
+}
+
+#div_3{
+    float: right;
+    width:74%;
+    height: 200px;
+    background-color: cornsilk;
+    margin-bottom:15px;
+}
+#div_4{
+    clear:right;
+    height: 50px;
+    background-color: deepskyblue;
+}
+
+
+
