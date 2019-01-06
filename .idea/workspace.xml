@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fdb6fff-922b-410e-b752-7bc5b5758fad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/030_position/01_relative/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/01_relative/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/02_fxied/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/02_fxied/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/03_exercise_taco-shop/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/03_exercise_taco-shop/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/04_hans_on_exercise/01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/04_hans_on_exercise/01/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/04_hans_on_exercise/02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/04_hans_on_exercise/02/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/04_hans_on_exercise/03/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/04_hans_on_exercise/03/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/04_hans_on_exercise/04/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_position/04_hans_on_exercise/04/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/032_float/01_auto/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/032_float/01_auto/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,20 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/030_position/04_hans_on_exercise/04/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/032_float/01_auto/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="360">
+              <caret line="14" column="7126" lean-forward="true" selection-start-line="14" selection-start-column="7126" selection-end-line="14" selection-end-column="7126" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/030_position/04_hans_on_exercise/04/main.css">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/032_float/01_auto/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="192">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -70,8 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/023_hands_on_exercises/ex_04/main.css" />
-        <option value="$PROJECT_DIR$/023_hands_on_exercises/ex_05/main.css" />
         <option value="$PROJECT_DIR$/023_hands_on_exercises/ex_06/index.html" />
         <option value="$PROJECT_DIR$/023_hands_on_exercises/ex_06/main.css" />
         <option value="$PROJECT_DIR$/023_hands_on_exercises/ex_07/index.html" />
@@ -121,6 +107,8 @@
         <option value="$PROJECT_DIR$/030_position/04_hans_on_exercise/03/main.css" />
         <option value="$PROJECT_DIR$/030_position/04_hans_on_exercise/04/index.html" />
         <option value="$PROJECT_DIR$/030_position/04_hans_on_exercise/04/main.css" />
+        <option value="$PROJECT_DIR$/032_float/01_auto/main.css" />
+        <option value="$PROJECT_DIR$/032_float/01_auto/index.html" />
       </list>
     </option>
   </component>
@@ -134,8 +122,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="519" />
-    <option name="y" value="24" />
+    <option name="x" value="123" />
+    <option name="y" value="32" />
     <option name="width" value="1268" />
     <option name="height" value="963" />
   </component>
@@ -157,27 +145,19 @@
             <path>
               <item name="html-css-bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="030_position" type="462c0819:PsiDirectoryNode" />
+              <item name="032_float" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="html-css-bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="030_position" type="462c0819:PsiDirectoryNode" />
-              <item name="04_hans_on_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="032_float" type="462c0819:PsiDirectoryNode" />
+              <item name="01_auto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="html-css-bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="030_position" type="462c0819:PsiDirectoryNode" />
-              <item name="04_hans_on_exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-css-bootcamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-css-bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="030_position" type="462c0819:PsiDirectoryNode" />
-              <item name="04_hans_on_exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="04" type="462c0819:PsiDirectoryNode" />
+              <item name="032_float" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,18 +217,19 @@
       <workItem from="1546158054437" duration="8780000" />
       <workItem from="1546222663045" duration="7673000" />
       <workItem from="1546314300803" duration="6096000" />
-      <workItem from="1546656940181" duration="11846000" />
+      <workItem from="1546656940181" duration="12845000" />
+      <workItem from="1546738374433" duration="898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43522000" />
+    <option name="totallyTimeSpent" value="45419000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="415" y="56" width="1268" height="963" extended-state="0" />
+    <frame x="123" y="32" width="1268" height="963" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35174656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35174656" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -301,20 +282,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/023_hands_on_exercises/ex_05/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/023_hands_on_exercises/ex_06/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/023_hands_on_exercises/ex_06/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -632,17 +599,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/030_position/04_hans_on_exercise/04/main.css">
+    <entry file="file://$PROJECT_DIR$/030_position/04_hans_on_exercise/04/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="216">
+          <caret line="9" column="167" selection-start-line="9" selection-start-column="167" selection-end-line="9" selection-end-column="167" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/030_position/04_hans_on_exercise/04/index.html">
+    <entry file="file://$PROJECT_DIR$/030_position/04_hans_on_exercise/04/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state relative-caret-position="497">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/032_float/01_auto/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="14" column="7126" lean-forward="true" selection-start-line="14" selection-start-column="7126" selection-end-line="14" selection-end-column="7126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/032_float/01_auto/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
