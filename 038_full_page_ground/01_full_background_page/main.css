@@ -1,0 +1,69 @@
+html {
+    font-family: Cantarell sans-serif;
+}
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+#idx-atf {
+    height: 100vh;
+    display: flex;
+    /*flex-flow: row nowrap; -->  default */
+    justify-content: center;
+    align-items: center;
+    background-color: #727272;
+    background-image: url("../images/buliding.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-origin: border-box;
+    background-attachment: fixed;
+    color: whitesmoke;
+}
+
+.idx-center-spacebetween {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.idx-center-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#idx-atf > div {
+    height: 20vh;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 1.4rem;
+
+}
+
+button {
+    color:rgb(202,250,234);
+    font-size: 1.4em;
+    font-weight: 300;
+    border:1px solid rgb(202,250,234);
+    padding:.2em .3em;
+    border-radius: 3%;
+}
