@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fdb6fff-922b-410e-b752-7bc5b5758fad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/040_table_menu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/040_table_menu/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/041_header_menu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/041_header_menu/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/042_transition/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/042_transition/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/043_flexbox-practicum/01_footer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/043_flexbox-practicum/01_footer/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/041_header_menu/index.html">
+        <entry file="file://$PROJECT_DIR$/043_flexbox-practicum/01_footer/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-141">
-              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="140">
+              <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -35,10 +31,10 @@
         </entry>
       </file>
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/041_header_menu/main.css">
+        <entry file="file://$PROJECT_DIR$/043_flexbox-practicum/01_footer/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="80" column="6" lean-forward="true" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+            <state relative-caret-position="2208">
+              <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -66,10 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/032_float/02_clear/main.css" />
-        <option value="$PROJECT_DIR$/032_float/03_float_model/index.html" />
-        <option value="$PROJECT_DIR$/032_float/03_float_model/main.css" />
-        <option value="$PROJECT_DIR$/032_float/04_overflow/index.html" />
         <option value="$PROJECT_DIR$/032_float/04_overflow/main.css" />
         <option value="$PROJECT_DIR$/033_background/main.css" />
         <option value="$PROJECT_DIR$/033_background/01_background_img/index.html" />
@@ -117,6 +109,10 @@
         <option value="$PROJECT_DIR$/042_transition/main.css" />
         <option value="$PROJECT_DIR$/041_header_menu/index.html" />
         <option value="$PROJECT_DIR$/041_header_menu/main.css" />
+        <option value="$PROJECT_DIR$/043_animation/main.css" />
+        <option value="$PROJECT_DIR$/043_animation/index.html" />
+        <option value="$PROJECT_DIR$/043_flexbox-practicum/01_footer/index.html" />
+        <option value="$PROJECT_DIR$/043_flexbox-practicum/01_footer/main.css" />
       </list>
     </option>
   </component>
@@ -130,8 +126,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="106" />
-    <option name="y" value="38" />
+    <option name="x" value="76" />
+    <option name="y" value="23" />
     <option name="width" value="1470" />
     <option name="height" value="877" />
   </component>
@@ -212,15 +208,15 @@
       <workItem from="1546738374433" duration="20948000" />
       <workItem from="1547031942862" duration="2322000" />
       <workItem from="1547040553491" duration="2093000" />
-      <workItem from="1547125237895" duration="12695000" />
+      <workItem from="1547125237895" duration="14353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82579000" />
+    <option name="totallyTimeSpent" value="84237000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="106" y="38" width="1470" height="877" extended-state="0" />
+    <frame x="76" y="23" width="1470" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28750873" />
@@ -276,34 +272,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/033_background/02_background-position/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/033_background/02_background-position/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/033_background/03_background-origin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/033_background/03_background-origin/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/033_background/04_hands_on-exercises/02/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -580,20 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/042_transition/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/042_transition/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/041_header_menu/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
@@ -603,8 +557,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/041_header_menu/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="291">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/042_transition/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/042_transition/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/043_animation/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/043_animation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/043_flexbox-practicum/01_footer/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2208">
+          <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/043_flexbox-practicum/01_footer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
